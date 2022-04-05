@@ -15,7 +15,7 @@ Use the below mockup to create a carousel that displays all the game options. Th
     * It should show five games at a time.
     * It should scroll to the right automatically to display the next game option every 3 seconds.
     * It should show the name of the game in the center, as shown in the mockup.
-3. Style the `GamesCarousel` component. We use the `styled-components` library and have included it in this repo, but you do not need to use it if you would like the write the styles some other way. Some things to keep in mind:
+3. Style the `GamesCarousel` component. We use the `styled-components` library and have included it in this repo, but you do not need to use it. Some things to keep in mind:
     * The styles do NOT need to be cross-browser compatible. I would recommend using Chrome for this mockup as Firefox does not support some CSS properties that facilitate this design.
     * The styles do NOT need to be responsive.
 
